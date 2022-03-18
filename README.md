@@ -1,1 +1,3 @@
-# CSS-HTML-practice-
+# CSS-HTML-practice 
+
+Practice of basic CSS on HTML table
