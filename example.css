@@ -1,0 +1,38 @@
+body {
+    font-family: 'Sans Source Pro', sans-serif; 
+  }
+  
+  table {
+      margin: auto;
+  }  
+
+  h1::first-line {
+      color:blue
+      
+      
+  }
+  
+th, td {
+    border:1px solid;
+    padding:6px;
+    width:100px;
+}
+
+.column1 {
+    background: violet;
+}
+
+.palegreen {
+    background:palegreen
+}
+
+  th {
+      background: lightblue;
+  }
+  
+  td {
+      background: khaki;
+      text-align: center;
+  }
+
+  
