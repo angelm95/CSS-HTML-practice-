@@ -1,0 +1,34 @@
+
+        #submit-btn {
+            background:green;
+            color:white;
+
+        }
+        h1{
+            text-align: center;
+        }
+        #submit-btn {
+            background:green;
+            color:white;
+        }
+     #firstbutton
+     {
+         color:white;
+         background:rgb(126, 187, 126);
+         border:1.5px solid;
+         border-color:black;
+     }
+     #lastbutton
+     {
+         color:white;
+         background:rgb(126, 187, 126);
+         border:1.5px solid;
+         border-color:black;
+     }
+     #emailbutton
+     {
+         color:white;
+         background:rgb(126, 187, 126);
+         border:1.5px solid;
+         border-color:black;
+     }
